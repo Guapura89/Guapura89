@@ -5,11 +5,12 @@
 
 I'm a University student who love the programming and video games, and I want to be a full-stack developer contributing in projects and learning more and more.
 
-### In my free times i like to..
+### In my free times I like to..
 
 - Play video games 🎮
 - Play my guitar🎸
-- Watch movies 🎬    
+- Watch movies 🎬
+- Spent time in family 👨‍👩‍👧‍👦
 
 
 # <div align="center">My GitHub stats</div> 
