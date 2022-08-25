@@ -8,7 +8,7 @@ I'm a University student who love the programming and video games, and I want to
 ### In my free times I like to..
 
 - Play video games 🎮
-- Play my guitar🎸
+- Play my guitar 🎸
 - Watch movies 🎬
 - Spent time in family 👨‍👩‍👧‍👦
 
