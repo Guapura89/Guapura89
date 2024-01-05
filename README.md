@@ -3,7 +3,7 @@
 
 # What about me?
 
-I'm a University student who love the programming and video games, and I want to be a full-stack developer contributing in projects and learning more and more.
+I'm a Software engineer who love the programming and video games, and I want to be a full-stack developer contributing in projects and learning more and more.
 
 ### In my free times I like to..
 
